@@ -12,6 +12,7 @@ for (let i = 0; i < people.length; i++) {
 
 
 
+
 // remove "Greg" from the array
 
 people.splice(0, 1);
